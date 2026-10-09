@@ -1,0 +1,10 @@
+{
+  "description": "Experience a fun, interactive 3D paper toss game that uses hand gestures to lift, fold, and throw paper, providing an engaging and immersive gameplay experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
