@@ -1,0 +1,10 @@
+{
+  "description": "Experience a premium hand gesture game where players crumple and throw virtual paper into a wastebasket using real-time hand tracking, all while ensuring privacy.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
